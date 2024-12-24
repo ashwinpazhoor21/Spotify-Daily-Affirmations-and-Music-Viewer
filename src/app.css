@@ -1,0 +1,45 @@
+.track-card {
+    margin: 10;
+    padding: 15;
+    background-color: #ffffff;
+    border-radius: 8;
+}
+
+.track-image {
+    width: 100;
+    height: 100;
+    border-radius: 4;
+}
+
+.track-name {
+    font-size: 16;
+    font-weight: bold;
+    margin-top: 8;
+}
+
+.track-artist {
+    font-size: 14;
+    color: #666666;
+}
+
+.track-details {
+    padding: 20;
+}
+
+.track-cover {
+    width: 300;
+    height: 300;
+    border-radius: 8;
+}
+
+.track-title {
+    font-size: 24;
+    font-weight: bold;
+    margin-top: 16;
+}
+
+.album-name {
+    font-size: 16;
+    color: #666666;
+    margin-top: 8;
+}
